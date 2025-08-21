@@ -2,6 +2,8 @@
 
 <img width="1594" height="854" alt="Screenshot 2025-08-21 211246" src="https://github.com/user-attachments/assets/77929611-47b6-43c2-a3e7-acde73342821" />
 
+> ⚠️ Currently there's an issue to sync the model inference with live video footage so the bounding box appear out-of-sync ⚠️
+
 This project is a solution for the Synapsis AI Engineer Challenge. It implements a complete system for object detection, tracking, and people counting within a user-defined polygon area from a live video feed. The system features a FastAPI backend, a React frontend dashboard, and uses YOLOv8 for real-time AI inference.
 
 ## Features
